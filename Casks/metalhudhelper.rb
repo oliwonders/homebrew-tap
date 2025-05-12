@@ -8,6 +8,11 @@ cask "metalhudhelper" do
   desc "Menubar tool to enable/disable Apple's Metal HUD on macOS"
   homepage "https://github.com/oliwonders/MetalHUDHelper"
 
+  livecheck do
+    url :url
+    strategy :github_latest
+  end
+
   app "MetalHUDHelper.app"
 
   zap trash: [
