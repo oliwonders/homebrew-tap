@@ -2,13 +2,13 @@
 
 Installing the tap will provide access to oli/wonders software via Homebrew:
 
-```console
+```sh
 brew tap oliwonders/tap
 ```
 
 Installing individual tools can be done by:
 
 [MetalHudHelper](https://github.com/oliwonders/metalhudhelper)
-```console
+```sh
 brew install --cask metalhudhelper
 ```
