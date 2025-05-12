@@ -10,5 +10,5 @@ Installing individual tools can be done by:
 
 [MetalHudHelper](https://github.com/oliwonders/metalhudhelper)
 ```console
-brew install metalhudhelper
+brew install --cask metalhudhelper
 ```
