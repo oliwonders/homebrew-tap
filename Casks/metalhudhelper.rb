@@ -8,7 +8,7 @@ cask "metalhudhelper" do
   desc "Menubar tool to enable/disable Apple's Metal HUD on macOS"
   homepage "https://github.com/oliwonders/MetalHUDHelper"
 
-  depends_on macos: :sequoia
+  depends_on macos: ">=:sequoia"
 
   livecheck do
     url :url
