@@ -1,6 +1,6 @@
 cask "metalhudhelper" do
-  version "1.1.3"
-  sha256 "ac7e3c0692f2639911381db64d2cdede2df9c1db86d091855b3b212179480721"
+  version "1.2.0"
+  sha256 "7dd8ecf8fa3ebdd4f88e8227edc07cb74bdb5f4640836ad8371c1aabe6fd5a0f"
 
   url "https://github.com/oliwonders/MetalHUDHelper/releases/download/v#{version}/MetalHUDHelper.app.zip",
       verified: "github.com/oliwonders/MetalHUDHelper/"
